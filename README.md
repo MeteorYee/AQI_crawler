@@ -4,9 +4,9 @@ A visualized tool for Chinese cities AQI
 Is the haze realy severe in China? This tool will help you to see it. All the data is from [here](https://www.aqistudy.cn/historydata/).
 
 ## Beijing
-<p align="center"><img src="https://github.com/MeteorYee/AQI_crawler/tree/master/pics/bj_1517.png" /><br>Fig 1. Beijing AQI, 2015~2017</p>
+<p align="center"><img src="https://github.com/MeteorYee/AQI_crawler/blob/master/pics/bj_1517.png" /><br>Fig 1. Beijing AQI, 2015~2017</p>
 
-<p align="center"><img src="https://github.com/MeteorYee/AQI_crawler/tree/master/pics/bj_17.png" /><br>Fig 2. Beijing AQI, 2017</p>
+<p align="center"><img src="https://github.com/MeteorYee/AQI_crawler/blob/master/pics/bj_17.png" /><br>Fig 2. Beijing AQI, 2017</p>
 
 Throughout the past 3 years, as the figure 1 shows above, Beijing's air condition was being improved gradually. In 2017, the progress is more evident as the figure 2 shows. Then, what about your hometown?
 
